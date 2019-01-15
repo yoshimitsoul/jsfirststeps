@@ -1,1 +1,1 @@
-alert('Hello world!');
+alert('Hello world!'); /*fonction alert qui ouvre une fenêtre de message avec le paramêtre hello world*/
